@@ -1,0 +1,2 @@
+# scrimbaCourse
+ repo for learning
